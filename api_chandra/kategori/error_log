@@ -1,0 +1,53 @@
+[07-Jan-2025 16:28:07 Asia/Jakarta] PHP Warning:  Undefined variable $id in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 6
+[07-Jan-2025 16:28:07 Asia/Jakarta] PHP Warning:  Undefined variable $category in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 9
+[07-Jan-2025 16:28:12 Asia/Jakarta] PHP Warning:  Undefined variable $id in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 6
+[07-Jan-2025 16:28:12 Asia/Jakarta] PHP Warning:  Undefined variable $category in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 9
+[07-Jan-2025 16:30:06 Asia/Jakarta] PHP Warning:  Undefined variable $id in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 6
+[07-Jan-2025 16:30:06 Asia/Jakarta] PHP Warning:  Undefined variable $category in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 9
+[07-Jan-2025 16:30:13 Asia/Jakarta] PHP Warning:  Undefined variable $id in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 6
+[07-Jan-2025 16:30:13 Asia/Jakarta] PHP Warning:  Undefined variable $category in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 9
+[07-Jan-2025 16:35:58 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `activities_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `categories` (`id`)) in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php:50
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 50
+[07-Jan-2025 16:36:13 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `activities_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `categories` (`id`)) in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php:50
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 50
+[07-Jan-2025 16:36:37 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `activities_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `categories` (`id`)) in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php:50
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 50
+[07-Jan-2025 16:38:30 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `activities_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `categories` (`id`)) in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php:56
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 56
+[07-Jan-2025 16:38:34 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `activities_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `categories` (`id`)) in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php:56
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php(56): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/kategori/delete_categories.php on line 56
+[10-Jan-2025 15:46:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/kategori/get_categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/kategori/get_categories.php on line 10
+[10-Jan-2025 15:46:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/kategori/get_categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/kategori/get_categories.php on line 10
+[10-Jan-2025 15:46:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/kategori/get_categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/kategori/get_categories.php on line 10
+[10-Jan-2025 15:47:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/kategori/get_categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/kategori/get_categories.php on line 10
+[10-Jan-2025 15:47:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/kategori/get_categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/kategori/get_categories.php on line 10

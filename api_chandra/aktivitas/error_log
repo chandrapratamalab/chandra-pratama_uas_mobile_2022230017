@@ -1,0 +1,731 @@
+[09-Jan-2025 12:17:41 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `fk_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php:39
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php on line 39
+[09-Jan-2025 12:17:43 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `fk_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php:39
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php on line 39
+[09-Jan-2025 12:18:10 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `fk_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php:39
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php on line 39
+[09-Jan-2025 12:18:22 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `fk_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php:39
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php on line 39
+[09-Jan-2025 12:18:49 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `fk_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php:39
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php on line 39
+[09-Jan-2025 12:26:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `fk_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php:39
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php on line 39
+[09-Jan-2025 12:26:36 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `fk_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php:39
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php on line 39
+[09-Jan-2025 12:27:14 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`teky6584_api_chandra`.`activities`, CONSTRAINT `fk_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php:39
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/add_activities.php on line 39
+[09-Jan-2025 16:41:23 Asia/Jakarta] Data yang diterima: Array
+(
+    [user_id] => 11
+    [name] => Belajar Flutter
+    [description] => Mempelajari dasar-dasar Flutter
+    [category_id] => 5
+    [date] => 2025-01-10
+)
+
+[09-Jan-2025 19:27:52 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => fwwfawf
+    [description] => waffwa
+    [category_id] => 7
+    [date] => 2025-01-09
+    [user_id] => 4
+)
+
+[09-Jan-2025 20:12:22 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => belajar flutter sampe mampus
+    [description] => tutorial menuju kegilaan
+    [category_id] => 5
+    [date] => 2025-01-09
+    [user_id] => 5
+)
+
+[10-Jan-2025 15:51:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 15:51:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/aktivitas/get_activities.php on line 25
+[10-Jan-2025 19:11:52 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => apa kamu masih waras?
+    [description] => ya tentu aja
+    [category_id] => 27
+    [date] => 2025-01-10
+    [user_id] => 17
+)
+
+[10-Jan-2025 19:11:52 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => apa kamu masih waras?
+    [description] => ya tentu aja
+    [category_id] => 27
+    [date] => 2025-01-10
+    [user_id] => 17
+)
+
+[10-Jan-2025 19:12:22 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => test
+    [description] => test2
+    [category_id] => 28
+    [date] => 2025-01-10
+    [user_id] => 17
+)
+
+[10-Jan-2025 19:13:03 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => lago
+    [description] => wafwaofwafnwafwbwaigiwabgwabwabgbwwvuvwauvwuaggvgavauavwiiauwgvgauavgavaivgwauawg
+    [category_id] => 26
+    [date] => 2025-01-10
+    [user_id] => 17
+)
+
+[10-Jan-2025 19:51:35 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => test
+    [description] => gimana
+    [category_id] => 11
+    [date] => 2025-01-10
+    [user_id] => 6
+)
+
+[10-Jan-2025 20:09:32 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => test
+    [description] => test
+    [category_id] => 26
+    [date] => 2025-01-10
+    [user_id] => 5
+)
+
+[10-Jan-2025 20:15:10 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => project flutter
+    [description] => ga tau
+    [category_id] => 28
+    [date] => 2025-01-10
+    [user_id] => 31
+)
+
+[10-Jan-2025 20:22:25 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => Belajar Flutter
+    [description] => yeyeye
+    [category_id] => 26
+    [date] => 2025-01-10
+    [user_id] => 32
+)
+
+[10-Jan-2025 20:27:47 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => f
+    [description] => ff
+    [category_id] => 26
+    [date] => 2025-01-10
+    [user_id] => 32
+)
+
+[10-Jan-2025 20:32:26 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => eh
+    [description] => sheh
+    [category_id] => 14
+    [date] => 2025-01-10
+    [user_id] => 32
+)
+
+[10-Jan-2025 20:32:46 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => gwa
+    [description] => gw
+    [category_id] => 26
+    [date] => 2025-01-10
+    [user_id] => 32
+)
+
+[10-Jan-2025 20:33:37 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => gawg
+    [description] => wgag
+    [category_id] => 27
+    [date] => 2025-01-10
+    [user_id] => 32
+)
+
+[10-Jan-2025 20:35:02 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => geg
+    [description] => seg
+    [category_id] => 27
+    [date] => 2025-01-10
+    [user_id] => 32
+)
+
+[10-Jan-2025 21:53:12 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => waa
+    [description] => www
+    [category_id] => 9
+    [date] => 2025-01-10
+    [user_id] => 5
+)
+
+[10-Jan-2025 21:53:36 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => ea
+    [description] => ag
+    [category_id] => 26
+    [date] => 2025-01-10
+    [user_id] => 5
+)
+
+[10-Jan-2025 21:55:21 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => wfwa
+    [description] => fwfwf
+    [category_id] => 26
+    [date] => 2025-01-10
+    [user_id] => 5
+)
+
+[10-Jan-2025 22:22:07 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => gila?
+    [description] => ww
+    [category_id] => 28
+    [date] => 2025-01-10
+    [user_id] => 5
+)
+
+[10-Jan-2025 22:24:39 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => udh waras
+    [description] => wfa
+    [category_id] => 11
+    [date] => 2025-01-10
+    [user_id] => 5
+)
+
+[10-Jan-2025 22:37:28 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => waawg
+    [description] => wgw
+    [category_id] => 26
+    [date] => 2025-01-10
+    [user_id] => 5
+)
+
+[10-Jan-2025 22:43:40 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => wffaf
+    [description] => fwafw
+    [category_id] => 9
+    [date] => 2025-01-10
+    [user_id] => 7
+)
+
+[10-Jan-2025 22:46:34 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => waf
+    [description] => fawf
+    [category_id] => 26
+    [date] => 2025-01-10
+    [user_id] => 10
+)
+
+[10-Jan-2025 23:02:17 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => fwf
+    [description] => fawf
+    [category_id] => 27
+    [date] => 2025-01-10
+    [user_id] => 10
+)
+
+[10-Jan-2025 23:16:52 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => egg
+    [description] => ge
+    [category_id] => 11
+    [date] => 2025-01-10
+    [user_id] => 5
+)
+
+[11-Jan-2025 11:53:21 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => wfwf
+    [description] => awa
+    [category_id] => 10
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 12:05:33 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => ee
+    [description] => ee
+    [category_id] => 7
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 12:05:33 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => ee
+    [description] => ee
+    [category_id] => 7
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 12:05:46 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => geg
+    [description] => egs
+    [category_id] => 26
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 15:36:12 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => raynor
+    [description] => raynor 
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 15:43:52 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => tambah
+    [description] => qolil
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 15:54:44 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => ag
+    [description] => awg
+    [category_id] => 26
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 16:32:15 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => gese
+    [description] => sgse
+    [category_id] => 28
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 16:49:44 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => qolil
+    [description] => qolil
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 16:52:57 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => qolil2
+    [description] => qolil2
+    [category_id] => 28
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 16:56:46 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => wwwww
+    [description] => www
+    [category_id] => 28
+    [date] => 2025-01-11
+    [user_id] => 34
+)
+
+[11-Jan-2025 17:05:56 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => fwf
+    [description] => wff
+    [category_id] => 28
+    [date] => 2025-01-11
+    [user_id] => 34
+)
+
+[11-Jan-2025 17:30:11 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => faw
+    [description] => faawfw
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 34
+)
+
+[11-Jan-2025 17:31:36 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => data baru
+    [description] => baru
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 34
+)
+
+[11-Jan-2025 17:32:14 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => barubaru
+    [description] => barubarbu
+    [category_id] => 26
+    [date] => 2025-01-11
+    [user_id] => 34
+)
+
+[11-Jan-2025 17:32:51 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => w
+    [description] => wff
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 34
+)
+
+[11-Jan-2025 17:34:11 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => gimana
+    [description] => gimana
+    [category_id] => 26
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 17:35:15 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => oi
+    [description] => oi
+    [category_id] => 28
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 17:36:05 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => ini baru bisa
+    [description] => bisa bis
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 17:36:52 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => waww
+    [description] => www
+    [category_id] => 29
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 17:38:20 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => w
+    [description] => ww
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 17:38:50 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => fw
+    [description] => wf
+    [category_id] => 26
+    [date] => 2025-01-11
+    [user_id] => 5
+)
+
+[11-Jan-2025 17:42:40 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => chandra
+    [description] => belajar flutter sampe gila
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 35
+)
+
+[11-Jan-2025 17:42:59 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => chandra
+    [description] => belajar flutter sampe gila
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 35
+)
+
+[11-Jan-2025 17:45:06 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => lagi
+    [description] => lagi
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 35
+)
+
+[11-Jan-2025 17:45:17 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => lagi
+    [description] => lagi
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 35
+)
+
+[11-Jan-2025 17:47:58 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => www
+    [description] => fw
+    [category_id] => 14
+    [date] => 2025-01-11
+    [user_id] => 35
+)
+
+[11-Jan-2025 18:23:26 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => barubbaifaiawfawf
+    [description] => awfwawf
+    [category_id] => 29
+    [date] => 2025-01-11
+    [user_id] => 35
+)
+
+[11-Jan-2025 18:51:49 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => apa 
+    [description] => apa 
+    [category_id] => 29
+    [date] => 2025-01-11
+    [user_id] => 36
+)
+
+[11-Jan-2025 18:53:22 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => lagi 
+    [description] => 2323
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 36
+)
+
+[11-Jan-2025 18:55:29 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => fwfowfo
+    [description] => hwfiwf
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 36
+)
+
+[11-Jan-2025 19:16:20 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => ff
+    [description] => ww
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 37
+)
+
+[11-Jan-2025 19:37:37 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => bisa bbisa
+    [description] => bisa bisa
+    [category_id] => 27
+    [date] => 2025-01-11
+    [user_id] => 37
+)
+
+[11-Jan-2025 20:19:18 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => fwf
+    [description] => wf
+    [category_id] => 29
+    [date] => 2025-01-11
+    [user_id] => 37
+)
+
+[11-Jan-2025 20:21:49 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => fwf
+    [description] => wfawf
+    [category_id] => 14
+    [date] => 2025-01-11
+    [user_id] => 37
+)
+
+[12-Jan-2025 12:40:36 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => test
+    [description] => rawwra
+    [category_id] => 10
+    [date] => 2025-01-12
+    [user_id] => 37
+)
+
+[12-Jan-2025 12:52:34 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => aku
+    [description] => aku
+    [category_id] => 27
+    [date] => 2025-01-12
+    [user_id] => 37
+)
+
+[12-Jan-2025 12:53:25 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => ete
+    [description] => wff
+    [category_id] => 29
+    [date] => 2025-01-12
+    [user_id] => 37
+)
+
+[12-Jan-2025 12:53:35 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => hr
+    [description] => rhr
+    [category_id] => 28
+    [date] => 2025-01-12
+    [user_id] => 37
+)
+
+[12-Jan-2025 14:32:45 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => vawvivbaiw
+    [description] => vaiwvviaw
+    [category_id] => 27
+    [date] => 2025-01-12
+    [user_id] => 35
+)
+
+[15-Jan-2025 19:47:59 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => contoh
+    [description] => contoh
+    [category_id] => 34
+    [date] => 2025-01-15
+    [user_id] => 39
+)
+
+[17-Jan-2025 09:06:22 Asia/Jakarta] Data yang diterima: 
+[18-Jan-2025 17:15:48 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => test
+    [description] => test
+    [category_id] => 37
+    [date] => 2025-01-18
+    [user_id] => 39
+)
+
+[18-Jan-2025 20:04:47 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => test
+    [description] => test
+    [category_id] => 37
+    [date] => 2025-01-18
+    [user_id] => 40
+)
+
+[18-Jan-2025 22:21:45 Asia/Jakarta] Data yang diterima: 
+[19-Jan-2025 09:34:00 Asia/Jakarta] Data yang diterima: 
+[19-Jan-2025 15:52:27 Asia/Jakarta] Data yang diterima: 
+[21-Jan-2025 18:05:38 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => egeg
+    [description] => hese
+    [category_id] => 37
+    [date] => 2025-01-21
+    [user_id] => 39
+)
+
+[22-Jan-2025 17:08:08 Asia/Jakarta] Data yang diterima: Array
+(
+    [name] => Yudha
+    [description] => Sala
+    [category_id] => 40
+    [date] => 2025-01-22
+    [user_id] => 41
+)
+

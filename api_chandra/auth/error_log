@@ -1,0 +1,273 @@
+[06-Jan-2025 13:17:35 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 43
+[06-Jan-2025 13:17:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 43
+[06-Jan-2025 13:17:44 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:17:44 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:17:44 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:17:44 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:19:15 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:19:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:19:15 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:19:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:42:57 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:42:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:42:57 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:42:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:43:01 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:43:01 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:43:01 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:43:01 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:44:54 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:44:54 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:44:54 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:44:54 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:44:56 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:44:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:44:56 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:44:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:45:12 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:45:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 6
+[06-Jan-2025 13:45:12 Asia/Jakarta] PHP Warning:  Undefined variable $user in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 13:45:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 7
+[06-Jan-2025 15:16:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[06-Jan-2025 15:16:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12
+[06-Jan-2025 15:16:19 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[06-Jan-2025 15:16:19 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[06-Jan-2025 15:16:19 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[06-Jan-2025 15:16:19 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[06-Jan-2025 15:16:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[06-Jan-2025 15:16:27 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[06-Jan-2025 15:16:27 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[06-Jan-2025 15:16:27 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[06-Jan-2025 15:16:27 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[06-Jan-2025 15:16:27 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[06-Jan-2025 15:16:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[06-Jan-2025 15:16:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[06-Jan-2025 15:16:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[06-Jan-2025 15:16:28 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[06-Jan-2025 15:16:28 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[06-Jan-2025 15:16:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[06-Jan-2025 15:16:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[06-Jan-2025 15:16:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[06-Jan-2025 15:16:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[06-Jan-2025 15:16:29 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[06-Jan-2025 16:31:39 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[06-Jan-2025 16:31:39 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12
+[06-Jan-2025 17:04:15 Asia/Jakarta] PHP Warning:  Undefined array key "name" in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[06-Jan-2025 17:04:15 Asia/Jakarta] PHP Warning:  Undefined array key "email" in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[06-Jan-2025 17:04:15 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[06-Jan-2025 17:43:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[06-Jan-2025 17:43:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12
+[06-Jan-2025 17:45:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[06-Jan-2025 17:45:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[06-Jan-2025 17:45:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[06-Jan-2025 17:45:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[06-Jan-2025 17:45:03 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[06-Jan-2025 17:46:33 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[06-Jan-2025 17:46:33 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12
+[06-Jan-2025 17:46:41 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[06-Jan-2025 17:46:41 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[06-Jan-2025 17:46:41 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[06-Jan-2025 17:46:41 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[06-Jan-2025 17:46:41 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[06-Jan-2025 19:53:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[06-Jan-2025 19:53:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12
+[08-Jan-2025 19:52:47 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[08-Jan-2025 19:52:47 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12
+[09-Jan-2025 11:37:47 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:37:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:37:52 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:37:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:40:53 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:40:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:40:57 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:40:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:42:24 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:42:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:42:48 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:42:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:42:58 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:42:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:46:15 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 11:46:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 17:34:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "if" in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 9
+[09-Jan-2025 17:34:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "if" in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 9
+[09-Jan-2025 17:35:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "if" in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 9
+[09-Jan-2025 17:35:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "if" in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 9
+[09-Jan-2025 17:35:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[09-Jan-2025 17:35:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12
+[09-Jan-2025 17:35:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "if" in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 9
+[09-Jan-2025 17:35:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "if" in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 9
+[09-Jan-2025 17:44:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "if" in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 9
+[09-Jan-2025 17:47:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "if" in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 9
+[09-Jan-2025 17:48:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:48:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:48:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:48:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:48:04 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:48:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:48:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:48:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:48:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:48:06 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:48:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:48:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:48:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:48:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:48:12 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:48:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[09-Jan-2025 17:48:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12
+[09-Jan-2025 17:48:25 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:48:25 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:48:25 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:48:25 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:48:25 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:48:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:48:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:48:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:48:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:48:40 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:48:45 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:48:45 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:48:45 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:48:45 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:48:45 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:49:15 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:50:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:50:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:50:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:50:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:50:34 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:50:44 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:50:44 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:50:44 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:50:44 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:50:44 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:54:46 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:54:46 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:54:46 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:54:46 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:54:46 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:55:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 11
+[09-Jan-2025 17:55:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 12
+[09-Jan-2025 17:55:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 13
+[09-Jan-2025 17:55:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 14
+[09-Jan-2025 17:55:08 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'name' cannot be null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/auth/register.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 35
+[09-Jan-2025 17:59:12 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 17:59:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 17:59:43 Asia/Jakarta] PHP Warning:  Undefined variable $stmt in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[09-Jan-2025 17:59:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/teky6584/public_html/project_api/api_chandra/auth/register.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/auth/register.php on line 62
+[16-Jan-2025 01:27:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[16-Jan-2025 01:27:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12
+[17-Jan-2025 09:05:52 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[17-Jan-2025 09:05:52 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12
+[19-Jan-2025 20:50:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 11
+[19-Jan-2025 20:50:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_chandra/auth/login.php on line 12

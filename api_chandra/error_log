@@ -1,0 +1,202 @@
+[08-Jan-2025 20:30:23 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'test@gmail.com' for key 'email' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:82
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(82): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 82
+[08-Jan-2025 21:15:09 Asia/Jakarta] Parameter user_id: 4
+[08-Jan-2025 21:15:18 Asia/Jakarta] Parameter user_id: 4
+[08-Jan-2025 21:15:18 Asia/Jakarta] Parameter user_id: 4
+[08-Jan-2025 21:16:32 Asia/Jakarta] Parameter user_id: 5
+[08-Jan-2025 21:18:38 Asia/Jakarta] Parameter user_id: 4
+[09-Jan-2025 19:22:00 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:00 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:00 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:05 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:05 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:05 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:13 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:13 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:13 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:24 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:24 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:24 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:32 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:32 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:32 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:45 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:22:45 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:22:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:23:01 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:23:01 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:23:01 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:23:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:23:20 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:23:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:23:20 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:23:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:25:24 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:25:24 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:25:24 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:25:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:25:26 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:25:26 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:25:26 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:25:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:25:34 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:25:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:25:35 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:25:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:25:38 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:25:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:26:03 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:26:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 2
+[09-Jan-2025 19:26:03 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:26:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 21
+[09-Jan-2025 19:28:27 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:28:33 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:28:36 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:29:52 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:30:00 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:30:14 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:32:38 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'www' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:32:40 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'www' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:32:41 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'www' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:32:42 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'www' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:32:42 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'www' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:32:43 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'www' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:32:44 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'www' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:32:45 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'www' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:32:45 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'www' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:32:51 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'www' for key 'username' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:29
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(29): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 29
+[09-Jan-2025 19:33:29 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 2
+[09-Jan-2025 19:33:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 2
+[09-Jan-2025 19:33:29 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 17
+[09-Jan-2025 19:33:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/delete_user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 17
+[09-Jan-2025 19:33:37 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 2
+[09-Jan-2025 19:33:37 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 2
+[09-Jan-2025 19:33:37 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 17
+[09-Jan-2025 19:33:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/delete_user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 17
+[09-Jan-2025 19:36:44 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'test@gmail.com' for key 'email' in /home/teky6584/public_html/project_api/api_chandra/update_profile.php:35
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_chandra/update_profile.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/update_profile.php on line 35
+[09-Jan-2025 20:04:40 Asia/Jakarta] PHP Warning:  include(../db_connect.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 2
+[09-Jan-2025 20:04:40 Asia/Jakarta] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 2
+[09-Jan-2025 20:04:40 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 17
+[09-Jan-2025 20:04:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_chandra/delete_user.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_chandra/delete_user.php on line 17
